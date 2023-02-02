@@ -7,3 +7,8 @@ We test and debug, we iterate,
 To find the truth, we never hesitate,
 with version control, we can see,
 The changes made and how they agree.
+
+In the world of data analytics,
+We seek to uncover hidden patterns,
+With tools and algorithms, we analyze,
+To gain insights and optimize.

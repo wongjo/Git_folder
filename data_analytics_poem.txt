@@ -1,4 +1,9 @@
 In the world of code and data,
 We strive for truth and accutracy,
 With version control, we keep track,
-Of every change, no turning back,
+Of every range, no turning back.
+
+We test and debug, we iterate,
+To find the truth, we never hesitate,
+with version control, we can see,
+The changes made and how they agree.

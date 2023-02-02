@@ -21,3 +21,8 @@ Our data and results, they do not rust.
 5th stanza
 
 6th stanza
+
+Collaborating on version control,
+ensures team work, and a common goal,
+with branches and pull requests, 
+we merge our code, with minimal stress.
